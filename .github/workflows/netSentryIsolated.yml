@@ -1,5 +1,6 @@
 name: Build and deploy .NET Core application to Function App netSentryIsolated
 on:
+  workflow_dispatch:
   push:
     branches:
     - master
