@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "netSentryIsolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7268 --verbose"
+    }
+  }
+}
